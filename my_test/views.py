@@ -4,7 +4,7 @@ from django.http import HttpResponse
 def emp_details(req):
     emp_data={
         'eid':101,
-        'ename':'sunny',
+        'ename':'Bunny',
         'esal':1000,
         'dept':10
     }
